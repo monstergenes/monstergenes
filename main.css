@@ -71,6 +71,6 @@ span {
   86% {text-shadow: 0 0 5px @dark-gray; left: 50%}
   87% {text-shadow: 0 0 5px rgba(@red,@green,@blue,0.2); left: 51%}
   90% {text-shadow: 0 0 5px rgba(@red,@green,@blue,0.3); left: 51%}
-	95% {text-shadow: 0 0 10px rgba(@red,@green,@blue,0.4); left: 51%} 
+ 95% {text-shadow: 0 0 10px rgba(@red,@green,@blue,0.4); left: 51%} 
  100% {text-shadow: 0 0 10px rgba(@red,@green,@blue,0.5); left: 50%} 
 }
